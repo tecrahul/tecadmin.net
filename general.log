@@ -1,0 +1,1088 @@
+Dec 27 06:27:06 MySQL-2 do-agent[2306]: 2017/12/27 06:27:06 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 06:29:19 MySQL-2 do-agent[2306]: 2017/12/27 06:29:19 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 06:30:01 MySQL-2 CRON[27400]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 06:30:01 MySQL-2 CRON[27401]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 06:30:01 MySQL-2 CRON[27399]: (CRON) info (No MTA installed, discarding output)
+Dec 27 06:30:02 MySQL-2 kernel: [591753.297253] sh (27400): drop_caches: 3
+Dec 27 06:31:24 MySQL-2 do-agent[2306]: 2017/12/27 06:31:24 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 06:34:29 MySQL-2 do-agent[2306]: 2017/12/27 06:34:29 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 06:35:02 MySQL-2 CRON[27406]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 06:35:02 MySQL-2 CRON[27405]: (CRON) info (No MTA installed, discarding output)
+Dec 27 06:35:37 MySQL-2 do-agent[2306]: 2017/12/27 06:35:37 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 06:36:47 MySQL-2 do-agent[2306]: 2017/12/27 06:36:47 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 06:40:01 MySQL-2 CRON[27411]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 06:40:01 MySQL-2 CRON[27412]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 06:40:01 MySQL-2 CRON[27410]: (CRON) info (No MTA installed, discarding output)
+Dec 27 06:40:01 MySQL-2 kernel: [592351.385515] sh (27412): drop_caches: 3
+Dec 27 06:40:57 MySQL-2 do-agent[2306]: 2017/12/27 06:40:57 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 06:42:04 MySQL-2 do-agent[2306]: 2017/12/27 06:42:04 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 06:45:01 MySQL-2 CRON[27417]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 06:45:01 MySQL-2 CRON[27416]: (CRON) info (No MTA installed, discarding output)
+Dec 27 06:45:54 MySQL-2 systemd[1]: Starting Daily apt upgrade and clean activities...
+Dec 27 06:45:57 MySQL-2 systemd[1]: Started Daily apt upgrade and clean activities.
+Dec 27 06:46:08 MySQL-2 do-agent[2306]: 2017/12/27 06:46:08 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 06:50:01 MySQL-2 CRON[27486]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 06:50:01 MySQL-2 CRON[27487]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 06:50:01 MySQL-2 CRON[27485]: (CRON) info (No MTA installed, discarding output)
+Dec 27 06:50:01 MySQL-2 kernel: [592951.473029] sh (27487): drop_caches: 3
+Dec 27 06:55:01 MySQL-2 CRON[27492]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 06:55:01 MySQL-2 CRON[27491]: (CRON) info (No MTA installed, discarding output)
+Dec 27 06:56:25 MySQL-2 do-agent[2306]: 2017/12/27 06:56:25 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 06:57:35 MySQL-2 do-agent[2306]: 2017/12/27 06:57:35 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 07:00:01 MySQL-2 CRON[27497]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 07:00:01 MySQL-2 CRON[27498]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 07:00:01 MySQL-2 CRON[27496]: (CRON) info (No MTA installed, discarding output)
+Dec 27 07:00:01 MySQL-2 kernel: [593551.549564] sh (27498): drop_caches: 3
+Dec 27 07:05:01 MySQL-2 CRON[27503]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 07:05:01 MySQL-2 CRON[27502]: (CRON) info (No MTA installed, discarding output)
+Dec 27 07:07:50 MySQL-2 do-agent[2306]: 2017/12/27 07:07:50 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 07:10:01 MySQL-2 CRON[27508]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 07:10:01 MySQL-2 CRON[27509]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 07:10:01 MySQL-2 CRON[27507]: (CRON) info (No MTA installed, discarding output)
+Dec 27 07:10:01 MySQL-2 kernel: [594151.650037] sh (27509): drop_caches: 3
+Dec 27 07:11:52 MySQL-2 do-agent[2306]: 2017/12/27 07:11:52 Checking for newer version of do-agent
+Dec 27 07:11:52 MySQL-2 do-agent[2306]: 2017/12/27 07:11:52 No repository update available
+Dec 27 07:15:01 MySQL-2 CRON[27515]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 07:15:01 MySQL-2 CRON[27514]: (CRON) info (No MTA installed, discarding output)
+Dec 27 07:17:01 MySQL-2 CRON[27519]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 27 07:19:14 MySQL-2 do-agent[2306]: 2017/12/27 07:19:14 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 07:20:01 MySQL-2 CRON[27525]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 07:20:01 MySQL-2 CRON[27526]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 07:20:01 MySQL-2 CRON[27524]: (CRON) info (No MTA installed, discarding output)
+Dec 27 07:20:01 MySQL-2 kernel: [594751.757777] sh (27525): drop_caches: 3
+Dec 27 07:21:28 MySQL-2 do-agent[2306]: 2017/12/27 07:21:28 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 07:24:39 MySQL-2 do-agent[2306]: 2017/12/27 07:24:39 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 07:25:01 MySQL-2 CRON[27531]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 07:25:01 MySQL-2 CRON[27530]: (CRON) info (No MTA installed, discarding output)
+Dec 27 07:26:59 MySQL-2 do-agent[2306]: 2017/12/27 07:26:59 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 07:30:01 MySQL-2 CRON[27537]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 07:30:01 MySQL-2 CRON[27536]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 07:30:01 MySQL-2 CRON[27535]: (CRON) info (No MTA installed, discarding output)
+Dec 27 07:30:01 MySQL-2 kernel: [595351.872351] sh (27536): drop_caches: 3
+Dec 27 07:35:01 MySQL-2 CRON[27544]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 07:35:01 MySQL-2 CRON[27543]: (CRON) info (No MTA installed, discarding output)
+Dec 27 07:38:26 MySQL-2 do-agent[2306]: 2017/12/27 07:38:26 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 07:40:01 MySQL-2 CRON[27549]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 07:40:01 MySQL-2 CRON[27550]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 07:40:01 MySQL-2 CRON[27548]: (CRON) info (No MTA installed, discarding output)
+Dec 27 07:40:01 MySQL-2 kernel: [595952.003627] sh (27549): drop_caches: 3
+Dec 27 07:43:37 MySQL-2 do-agent[2306]: 2017/12/27 07:43:37 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 07:45:01 MySQL-2 CRON[27562]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 07:45:01 MySQL-2 CRON[27561]: (CRON) info (No MTA installed, discarding output)
+Dec 27 07:50:01 MySQL-2 CRON[27567]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 07:50:01 MySQL-2 CRON[27568]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 07:50:01 MySQL-2 CRON[27566]: (CRON) info (No MTA installed, discarding output)
+Dec 27 07:50:01 MySQL-2 kernel: [596552.101441] sh (27567): drop_caches: 3
+Dec 27 07:50:52 MySQL-2 do-agent[2306]: 2017/12/27 07:50:52 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 07:52:58 MySQL-2 do-agent[2306]: 2017/12/27 07:52:58 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 07:55:01 MySQL-2 CRON[27574]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 07:55:01 MySQL-2 CRON[27573]: (CRON) info (No MTA installed, discarding output)
+Dec 27 07:58:10 MySQL-2 do-agent[2306]: 2017/12/27 07:58:10 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 08:00:01 MySQL-2 CRON[27580]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 08:00:01 MySQL-2 CRON[27579]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 08:00:01 MySQL-2 CRON[27578]: (CRON) info (No MTA installed, discarding output)
+Dec 27 08:00:01 MySQL-2 kernel: [597152.215362] sh (27580): drop_caches: 3
+Dec 27 08:05:01 MySQL-2 CRON[27585]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 08:05:01 MySQL-2 CRON[27584]: (CRON) info (No MTA installed, discarding output)
+Dec 27 08:05:22 MySQL-2 do-agent[2306]: 2017/12/27 08:05:22 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 08:10:01 MySQL-2 CRON[27590]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 08:10:01 MySQL-2 CRON[27592]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 08:10:01 MySQL-2 CRON[27589]: (CRON) info (No MTA installed, discarding output)
+Dec 27 08:10:01 MySQL-2 kernel: [597752.299786] sh (27592): drop_caches: 3
+Dec 27 08:12:25 MySQL-2 do-agent[2306]: 2017/12/27 08:12:25 Checking for newer version of do-agent
+Dec 27 08:12:25 MySQL-2 do-agent[2306]: 2017/12/27 08:12:25 No repository update available
+Dec 27 08:15:02 MySQL-2 CRON[27597]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 08:15:02 MySQL-2 CRON[27596]: (CRON) info (No MTA installed, discarding output)
+Dec 27 08:15:41 MySQL-2 do-agent[2306]: 2017/12/27 08:15:41 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 08:17:01 MySQL-2 CRON[27601]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 27 08:17:51 MySQL-2 do-agent[2306]: 2017/12/27 08:17:51 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 08:20:01 MySQL-2 CRON[27608]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 08:20:01 MySQL-2 CRON[27609]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 08:20:01 MySQL-2 CRON[27607]: (CRON) info (No MTA installed, discarding output)
+Dec 27 08:20:01 MySQL-2 kernel: [598351.438546] sh (27609): drop_caches: 3
+Dec 27 08:24:10 MySQL-2 do-agent[2306]: 2017/12/27 08:24:10 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 08:25:01 MySQL-2 CRON[27615]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 08:25:01 MySQL-2 CRON[27614]: (CRON) info (No MTA installed, discarding output)
+Dec 27 08:26:22 MySQL-2 do-agent[2306]: 2017/12/27 08:26:22 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 08:28:31 MySQL-2 do-agent[2306]: 2017/12/27 08:28:31 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 08:30:01 MySQL-2 CRON[27620]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 08:30:01 MySQL-2 CRON[27621]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 08:30:01 MySQL-2 CRON[27619]: (CRON) info (No MTA installed, discarding output)
+Dec 27 08:30:01 MySQL-2 kernel: [598951.520758] sh (27620): drop_caches: 3
+Dec 27 08:34:49 MySQL-2 do-agent[2306]: 2017/12/27 08:34:49 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 08:35:01 MySQL-2 CRON[27626]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 08:35:01 MySQL-2 CRON[27625]: (CRON) info (No MTA installed, discarding output)
+Dec 27 08:37:00 MySQL-2 do-agent[2306]: 2017/12/27 08:37:00 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 08:40:01 MySQL-2 CRON[27631]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 08:40:01 MySQL-2 CRON[27632]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 08:40:01 MySQL-2 CRON[27630]: (CRON) info (No MTA installed, discarding output)
+Dec 27 08:40:01 MySQL-2 kernel: [599551.609499] sh (27631): drop_caches: 3
+Dec 27 08:44:03 MySQL-2 do-agent[2306]: 2017/12/27 08:44:03 Sending metrics to DigitalOcean: unexpected status code 503 while pushing to https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701
+Dec 27 08:45:01 MySQL-2 CRON[27637]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 08:45:01 MySQL-2 CRON[27636]: (CRON) info (No MTA installed, discarding output)
+Dec 27 08:49:13 MySQL-2 do-agent[2306]: 2017/12/27 08:49:13 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 08:50:01 MySQL-2 CRON[27643]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 08:50:01 MySQL-2 CRON[27645]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 08:50:01 MySQL-2 CRON[27642]: (CRON) info (No MTA installed, discarding output)
+Dec 27 08:50:01 MySQL-2 kernel: [600151.720553] sh (27643): drop_caches: 3
+Dec 27 08:52:23 MySQL-2 do-agent[2306]: 2017/12/27 08:52:23 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 08:54:31 MySQL-2 do-agent[2306]: 2017/12/27 08:54:31 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 08:55:01 MySQL-2 CRON[27649]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 08:55:01 MySQL-2 CRON[27648]: (CRON) info (No MTA installed, discarding output)
+Dec 27 08:58:42 MySQL-2 do-agent[2306]: 2017/12/27 08:58:42 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 09:00:01 MySQL-2 CRON[27654]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 09:00:01 MySQL-2 CRON[27657]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 09:00:01 MySQL-2 CRON[27653]: (CRON) info (No MTA installed, discarding output)
+Dec 27 09:00:01 MySQL-2 kernel: [600751.827526] sh (27657): drop_caches: 3
+Dec 27 09:01:52 MySQL-2 do-agent[2306]: 2017/12/27 09:01:52 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 09:03:04 MySQL-2 do-agent[2306]: 2017/12/27 09:03:04 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 09:05:01 MySQL-2 CRON[27661]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 09:05:01 MySQL-2 CRON[27660]: (CRON) info (No MTA installed, discarding output)
+Dec 27 09:06:19 MySQL-2 do-agent[2306]: 2017/12/27 09:06:19 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 09:10:01 MySQL-2 CRON[27666]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 09:10:01 MySQL-2 CRON[27667]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 09:10:01 MySQL-2 CRON[27665]: (CRON) info (No MTA installed, discarding output)
+Dec 27 09:10:01 MySQL-2 kernel: [601351.924970] sh (27666): drop_caches: 3
+Dec 27 09:11:20 MySQL-2 do-agent[2306]: 2017/12/27 09:11:20 Sending metrics to DigitalOcean: unexpected status code 503 while pushing to https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701
+Dec 27 09:12:33 MySQL-2 do-agent[2306]: 2017/12/27 09:12:33 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 09:13:33 MySQL-2 do-agent[2306]: 2017/12/27 09:13:33 Checking for newer version of do-agent
+Dec 27 09:13:33 MySQL-2 do-agent[2306]: 2017/12/27 09:13:33 No repository update available
+Dec 27 09:15:01 MySQL-2 CRON[27672]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 09:15:01 MySQL-2 CRON[27671]: (CRON) info (No MTA installed, discarding output)
+Dec 27 09:16:44 MySQL-2 do-agent[2306]: 2017/12/27 09:16:44 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 09:17:01 MySQL-2 CRON[27676]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 27 09:17:51 MySQL-2 do-agent[2306]: 2017/12/27 09:17:51 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 09:20:01 MySQL-2 CRON[27680]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 09:20:01 MySQL-2 CRON[27682]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 09:20:01 MySQL-2 CRON[27679]: (CRON) info (No MTA installed, discarding output)
+Dec 27 09:20:01 MySQL-2 kernel: [601952.013030] sh (27680): drop_caches: 3
+Dec 27 09:24:04 MySQL-2 do-agent[2306]: 2017/12/27 09:24:04 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 09:25:01 MySQL-2 CRON[27686]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 09:25:01 MySQL-2 CRON[27685]: (CRON) info (No MTA installed, discarding output)
+Dec 27 09:30:01 MySQL-2 CRON[27691]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 09:30:01 MySQL-2 CRON[27693]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 09:30:01 MySQL-2 CRON[27690]: (CRON) info (No MTA installed, discarding output)
+Dec 27 09:30:01 MySQL-2 kernel: [602552.121991] sh (27691): drop_caches: 3
+Dec 27 09:30:18 MySQL-2 do-agent[2306]: 2017/12/27 09:30:18 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 09:35:01 MySQL-2 CRON[27697]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 09:35:01 MySQL-2 CRON[27696]: (CRON) info (No MTA installed, discarding output)
+Dec 27 09:40:01 MySQL-2 CRON[27702]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 09:40:01 MySQL-2 CRON[27703]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 09:40:01 MySQL-2 CRON[27701]: (CRON) info (No MTA installed, discarding output)
+Dec 27 09:40:01 MySQL-2 kernel: [603152.244339] sh (27702): drop_caches: 3
+Dec 27 09:44:38 MySQL-2 do-agent[2306]: 2017/12/27 09:44:38 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 09:45:01 MySQL-2 CRON[27708]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 09:45:02 MySQL-2 CRON[27707]: (CRON) info (No MTA installed, discarding output)
+Dec 27 09:47:53 MySQL-2 do-agent[2306]: 2017/12/27 09:47:53 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 09:49:02 MySQL-2 do-agent[2306]: 2017/12/27 09:49:02 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 09:50:01 MySQL-2 CRON[27713]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 09:50:01 MySQL-2 CRON[27714]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 09:50:01 MySQL-2 CRON[27712]: (CRON) info (No MTA installed, discarding output)
+Dec 27 09:50:01 MySQL-2 kernel: [603751.360610] sh (27713): drop_caches: 3
+Dec 27 09:54:12 MySQL-2 do-agent[2306]: 2017/12/27 09:54:12 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 09:55:01 MySQL-2 CRON[27719]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 09:55:01 MySQL-2 CRON[27718]: (CRON) info (No MTA installed, discarding output)
+Dec 27 10:00:01 MySQL-2 CRON[27724]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 10:00:01 MySQL-2 CRON[27725]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 10:00:01 MySQL-2 CRON[27723]: (CRON) info (No MTA installed, discarding output)
+Dec 27 10:00:01 MySQL-2 kernel: [604351.439351] sh (27725): drop_caches: 3
+Dec 27 10:05:01 MySQL-2 CRON[27730]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 10:05:01 MySQL-2 CRON[27729]: (CRON) info (No MTA installed, discarding output)
+Dec 27 10:06:25 MySQL-2 do-agent[2306]: 2017/12/27 10:06:25 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 10:10:01 MySQL-2 CRON[27735]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 10:10:01 MySQL-2 CRON[27737]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 10:10:01 MySQL-2 CRON[27734]: (CRON) info (No MTA installed, discarding output)
+Dec 27 10:10:01 MySQL-2 kernel: [604951.537893] sh (27735): drop_caches: 3
+Dec 27 10:14:26 MySQL-2 do-agent[2306]: 2017/12/27 10:14:26 Checking for newer version of do-agent
+Dec 27 10:14:26 MySQL-2 do-agent[2306]: 2017/12/27 10:14:26 No repository update available
+Dec 27 10:15:01 MySQL-2 CRON[27741]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 10:15:01 MySQL-2 CRON[27740]: (CRON) info (No MTA installed, discarding output)
+Dec 27 10:17:01 MySQL-2 CRON[27745]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 27 10:20:01 MySQL-2 CRON[27749]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 10:20:01 MySQL-2 CRON[27751]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 10:20:01 MySQL-2 CRON[27748]: (CRON) info (No MTA installed, discarding output)
+Dec 27 10:20:01 MySQL-2 kernel: [605551.668628] sh (27751): drop_caches: 3
+Dec 27 10:25:01 MySQL-2 CRON[27756]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 10:25:01 MySQL-2 CRON[27755]: (CRON) info (No MTA installed, discarding output)
+Dec 27 10:27:23 MySQL-2 systemd[1]: Starting Cleanup of Temporary Directories...
+Dec 27 10:27:23 MySQL-2 systemd-tmpfiles[27759]: [/usr/lib/tmpfiles.d/var.conf:14] Duplicate line for path "/var/log", ignoring.
+Dec 27 10:27:23 MySQL-2 systemd[1]: Started Cleanup of Temporary Directories.
+Dec 27 10:30:01 MySQL-2 CRON[27765]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 10:30:01 MySQL-2 CRON[27768]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 10:30:01 MySQL-2 CRON[27764]: (CRON) info (No MTA installed, discarding output)
+Dec 27 10:30:01 MySQL-2 kernel: [606151.750838] sh (27768): drop_caches: 3
+Dec 27 10:33:43 MySQL-2 do-agent[2306]: 2017/12/27 10:33:43 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 10:35:01 MySQL-2 CRON[27771]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 10:35:01 MySQL-2 CRON[27770]: (CRON) info (No MTA installed, discarding output)
+Dec 27 10:36:48 MySQL-2 do-agent[2306]: 2017/12/27 10:36:48 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 10:39:59 MySQL-2 do-agent[2306]: 2017/12/27 10:39:59 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 10:40:01 MySQL-2 CRON[27776]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 10:40:01 MySQL-2 CRON[27777]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 10:40:01 MySQL-2 CRON[27775]: (CRON) info (No MTA installed, discarding output)
+Dec 27 10:40:01 MySQL-2 kernel: [606751.877536] sh (27777): drop_caches: 3
+Dec 27 10:44:10 MySQL-2 do-agent[2306]: 2017/12/27 10:44:10 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 10:45:01 MySQL-2 CRON[27782]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 10:45:01 MySQL-2 CRON[27781]: (CRON) info (No MTA installed, discarding output)
+Dec 27 10:50:01 MySQL-2 CRON[27787]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 10:50:01 MySQL-2 CRON[27788]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 10:50:01 MySQL-2 CRON[27786]: (CRON) info (No MTA installed, discarding output)
+Dec 27 10:50:01 MySQL-2 kernel: [607351.964404] sh (27787): drop_caches: 3
+Dec 27 10:52:22 MySQL-2 do-agent[2306]: 2017/12/27 10:52:22 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 10:55:01 MySQL-2 CRON[27793]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 10:55:01 MySQL-2 CRON[27792]: (CRON) info (No MTA installed, discarding output)
+Dec 27 10:57:33 MySQL-2 do-agent[2306]: 2017/12/27 10:57:33 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 11:00:01 MySQL-2 CRON[27798]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 11:00:01 MySQL-2 CRON[27799]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 11:00:01 MySQL-2 CRON[27797]: (CRON) info (No MTA installed, discarding output)
+Dec 27 11:00:01 MySQL-2 kernel: [607952.061470] sh (27798): drop_caches: 3
+Dec 27 11:02:43 MySQL-2 do-agent[2306]: 2017/12/27 11:02:43 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 11:05:01 MySQL-2 CRON[27804]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 11:05:01 MySQL-2 CRON[27803]: (CRON) info (No MTA installed, discarding output)
+Dec 27 11:05:56 MySQL-2 do-agent[2306]: 2017/12/27 11:05:56 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 11:10:01 MySQL-2 CRON[27809]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 11:10:01 MySQL-2 CRON[27811]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 11:10:01 MySQL-2 CRON[27808]: (CRON) info (No MTA installed, discarding output)
+Dec 27 11:10:01 MySQL-2 kernel: [608552.140763] sh (27809): drop_caches: 3
+Dec 27 11:14:55 MySQL-2 do-agent[2306]: 2017/12/27 11:14:55 Checking for newer version of do-agent
+Dec 27 11:14:55 MySQL-2 do-agent[2306]: 2017/12/27 11:14:55 No repository update available
+Dec 27 11:15:01 MySQL-2 CRON[27815]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 11:15:01 MySQL-2 CRON[27814]: (CRON) info (No MTA installed, discarding output)
+Dec 27 11:15:05 MySQL-2 do-agent[2306]: 2017/12/27 11:15:05 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 11:17:01 MySQL-2 CRON[27819]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 27 11:17:24 MySQL-2 do-agent[2306]: 2017/12/27 11:17:24 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 11:20:01 MySQL-2 CRON[27823]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 11:20:01 MySQL-2 CRON[27824]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 11:20:01 MySQL-2 CRON[27822]: (CRON) info (No MTA installed, discarding output)
+Dec 27 11:20:01 MySQL-2 kernel: [609152.263942] sh (27824): drop_caches: 3
+Dec 27 11:25:02 MySQL-2 CRON[27830]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 11:25:02 MySQL-2 CRON[27829]: (CRON) info (No MTA installed, discarding output)
+Dec 27 11:30:01 MySQL-2 CRON[27835]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 11:30:01 MySQL-2 CRON[27836]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 11:30:01 MySQL-2 CRON[27834]: (CRON) info (No MTA installed, discarding output)
+Dec 27 11:30:01 MySQL-2 kernel: [609751.433320] sh (27836): drop_caches: 3
+Dec 27 11:35:01 MySQL-2 CRON[27841]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 11:35:01 MySQL-2 CRON[27840]: (CRON) info (No MTA installed, discarding output)
+Dec 27 11:35:40 MySQL-2 do-agent[2306]: 2017/12/27 11:35:40 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 11:36:50 MySQL-2 do-agent[2306]: 2017/12/27 11:36:50 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 11:40:01 MySQL-2 CRON[27846]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 11:40:01 MySQL-2 CRON[27847]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 11:40:01 MySQL-2 CRON[27845]: (CRON) info (No MTA installed, discarding output)
+Dec 27 11:40:01 MySQL-2 kernel: [610351.520423] sh (27847): drop_caches: 3
+Dec 27 11:45:01 MySQL-2 CRON[27852]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 11:45:01 MySQL-2 CRON[27851]: (CRON) info (No MTA installed, discarding output)
+Dec 27 11:46:03 MySQL-2 do-agent[2306]: 2017/12/27 11:46:03 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 11:47:13 MySQL-2 do-agent[2306]: 2017/12/27 11:47:13 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 11:49:25 MySQL-2 do-agent[2306]: 2017/12/27 11:49:25 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 11:50:01 MySQL-2 CRON[27857]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 11:50:01 MySQL-2 CRON[27859]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 11:50:01 MySQL-2 CRON[27856]: (CRON) info (No MTA installed, discarding output)
+Dec 27 11:50:01 MySQL-2 kernel: [610951.616536] sh (27859): drop_caches: 3
+Dec 27 11:50:36 MySQL-2 do-agent[2306]: 2017/12/27 11:50:36 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 11:55:01 MySQL-2 CRON[27863]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 11:55:01 MySQL-2 CRON[27862]: (CRON) info (No MTA installed, discarding output)
+Dec 27 12:00:01 MySQL-2 CRON[27868]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 12:00:01 MySQL-2 CRON[27869]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 12:00:01 MySQL-2 CRON[27867]: (CRON) info (No MTA installed, discarding output)
+Dec 27 12:00:01 MySQL-2 kernel: [611551.727667] sh (27869): drop_caches: 3
+Dec 27 12:05:01 MySQL-2 CRON[27874]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 12:05:01 MySQL-2 CRON[27873]: (CRON) info (No MTA installed, discarding output)
+Dec 27 12:10:01 MySQL-2 CRON[27879]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 12:10:01 MySQL-2 CRON[27880]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 12:10:01 MySQL-2 CRON[27878]: (CRON) info (No MTA installed, discarding output)
+Dec 27 12:10:01 MySQL-2 kernel: [612151.840738] sh (27879): drop_caches: 3
+Dec 27 12:14:45 MySQL-2 do-agent[2306]: 2017/12/27 12:14:45 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 12:15:01 MySQL-2 CRON[27885]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 12:15:01 MySQL-2 CRON[27884]: (CRON) info (No MTA installed, discarding output)
+Dec 27 12:15:41 MySQL-2 do-agent[2306]: 2017/12/27 12:15:41 Checking for newer version of do-agent
+Dec 27 12:15:41 MySQL-2 do-agent[2306]: 2017/12/27 12:15:41 No repository update available
+Dec 27 12:17:01 MySQL-2 CRON[27889]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 27 12:20:01 MySQL-2 CRON[27893]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 12:20:01 MySQL-2 CRON[27894]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 12:20:01 MySQL-2 CRON[27892]: (CRON) info (No MTA installed, discarding output)
+Dec 27 12:20:01 MySQL-2 kernel: [612751.971243] sh (27894): drop_caches: 3
+Dec 27 12:24:53 MySQL-2 do-agent[2306]: 2017/12/27 12:24:53 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 12:25:01 MySQL-2 CRON[27899]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 12:25:01 MySQL-2 CRON[27898]: (CRON) info (No MTA installed, discarding output)
+Dec 27 12:27:07 MySQL-2 do-agent[2306]: 2017/12/27 12:27:07 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 12:30:01 MySQL-2 CRON[27904]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 12:30:01 MySQL-2 CRON[27906]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 12:30:01 MySQL-2 CRON[27903]: (CRON) info (No MTA installed, discarding output)
+Dec 27 12:30:01 MySQL-2 kernel: [613352.085114] sh (27906): drop_caches: 3
+Dec 27 12:35:01 MySQL-2 CRON[27911]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 12:35:01 MySQL-2 CRON[27910]: (CRON) info (No MTA installed, discarding output)
+Dec 27 12:40:01 MySQL-2 CRON[27916]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 12:40:01 MySQL-2 CRON[27917]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 12:40:01 MySQL-2 CRON[27915]: (CRON) info (No MTA installed, discarding output)
+Dec 27 12:40:01 MySQL-2 kernel: [613952.217231] sh (27917): drop_caches: 3
+Dec 27 12:43:24 MySQL-2 do-agent[2306]: 2017/12/27 12:43:24 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 12:45:01 MySQL-2 CRON[27922]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 12:45:01 MySQL-2 CRON[27921]: (CRON) info (No MTA installed, discarding output)
+Dec 27 12:50:01 MySQL-2 CRON[27927]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 12:50:01 MySQL-2 CRON[27928]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 12:50:02 MySQL-2 CRON[27926]: (CRON) info (No MTA installed, discarding output)
+Dec 27 12:50:02 MySQL-2 kernel: [614552.320909] sh (27928): drop_caches: 3
+Dec 27 12:50:34 MySQL-2 do-agent[2306]: 2017/12/27 12:50:34 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 12:55:01 MySQL-2 CRON[27933]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 12:55:01 MySQL-2 CRON[27932]: (CRON) info (No MTA installed, discarding output)
+Dec 27 13:00:01 MySQL-2 CRON[27938]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 13:00:01 MySQL-2 CRON[27939]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 13:00:01 MySQL-2 CRON[27937]: (CRON) info (No MTA installed, discarding output)
+Dec 27 13:00:01 MySQL-2 kernel: [615151.409662] sh (27939): drop_caches: 3
+Dec 27 13:05:01 MySQL-2 CRON[27944]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 13:05:01 MySQL-2 CRON[27943]: (CRON) info (No MTA installed, discarding output)
+Dec 27 13:10:01 MySQL-2 CRON[27949]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 13:10:01 MySQL-2 CRON[27951]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 13:10:01 MySQL-2 CRON[27948]: (CRON) info (No MTA installed, discarding output)
+Dec 27 13:10:01 MySQL-2 kernel: [615751.488254] sh (27951): drop_caches: 3
+Dec 27 13:10:55 MySQL-2 do-agent[2306]: 2017/12/27 13:10:55 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 13:15:01 MySQL-2 CRON[27955]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 13:15:01 MySQL-2 CRON[27954]: (CRON) info (No MTA installed, discarding output)
+Dec 27 13:15:12 MySQL-2 do-agent[2306]: 2017/12/27 13:15:12 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 13:16:07 MySQL-2 do-agent[2306]: 2017/12/27 13:16:07 Checking for newer version of do-agent
+Dec 27 13:16:07 MySQL-2 do-agent[2306]: 2017/12/27 13:16:07 No repository update available
+Dec 27 13:16:17 MySQL-2 do-agent[2306]: 2017/12/27 13:16:17 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 13:17:01 MySQL-2 CRON[27959]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 27 13:20:01 MySQL-2 CRON[27963]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 13:20:01 MySQL-2 CRON[27964]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 13:20:01 MySQL-2 CRON[27962]: (CRON) info (No MTA installed, discarding output)
+Dec 27 13:20:01 MySQL-2 kernel: [616351.578271] sh (27963): drop_caches: 3
+Dec 27 13:24:30 MySQL-2 do-agent[2306]: 2017/12/27 13:24:30 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 13:25:01 MySQL-2 CRON[27969]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 13:25:01 MySQL-2 CRON[27968]: (CRON) info (No MTA installed, discarding output)
+Dec 27 13:30:01 MySQL-2 CRON[27974]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 13:30:01 MySQL-2 CRON[27975]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 13:30:01 MySQL-2 CRON[27973]: (CRON) info (No MTA installed, discarding output)
+Dec 27 13:30:01 MySQL-2 kernel: [616951.688760] sh (27975): drop_caches: 3
+Dec 27 13:32:41 MySQL-2 do-agent[2306]: 2017/12/27 13:32:41 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 13:35:01 MySQL-2 CRON[27980]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 13:35:01 MySQL-2 CRON[27979]: (CRON) info (No MTA installed, discarding output)
+Dec 27 13:38:52 MySQL-2 do-agent[2306]: 2017/12/27 13:38:52 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 13:40:01 MySQL-2 CRON[27985]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 13:40:01 MySQL-2 CRON[27988]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 13:40:01 MySQL-2 CRON[27984]: (CRON) info (No MTA installed, discarding output)
+Dec 27 13:40:01 MySQL-2 kernel: [617551.790117] sh (27988): drop_caches: 3
+Dec 27 13:41:03 MySQL-2 do-agent[2306]: 2017/12/27 13:41:03 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 13:42:21 MySQL-2 do-agent[2306]: 2017/12/27 13:42:21 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 13:45:01 MySQL-2 CRON[27991]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 13:45:01 MySQL-2 CRON[27990]: (CRON) info (No MTA installed, discarding output)
+Dec 27 13:49:32 MySQL-2 do-agent[2306]: 2017/12/27 13:49:32 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 13:50:01 MySQL-2 CRON[27996]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 13:50:01 MySQL-2 CRON[27997]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 13:50:01 MySQL-2 CRON[27995]: (CRON) info (No MTA installed, discarding output)
+Dec 27 13:50:01 MySQL-2 kernel: [618151.881893] sh (27997): drop_caches: 3
+Dec 27 13:51:45 MySQL-2 do-agent[2306]: 2017/12/27 13:51:45 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 13:55:01 MySQL-2 CRON[28002]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 13:55:01 MySQL-2 CRON[28001]: (CRON) info (No MTA installed, discarding output)
+Dec 27 13:59:55 MySQL-2 do-agent[2306]: 2017/12/27 13:59:55 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 14:00:01 MySQL-2 CRON[28007]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 14:00:01 MySQL-2 CRON[28008]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 14:00:01 MySQL-2 CRON[28006]: (CRON) info (No MTA installed, discarding output)
+Dec 27 14:00:01 MySQL-2 kernel: [618752.001810] sh (28007): drop_caches: 3
+Dec 27 14:03:02 MySQL-2 do-agent[2306]: 2017/12/27 14:03:02 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 14:05:01 MySQL-2 CRON[28014]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 14:05:01 MySQL-2 CRON[28013]: (CRON) info (No MTA installed, discarding output)
+Dec 27 14:05:14 MySQL-2 do-agent[2306]: 2017/12/27 14:05:14 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 14:10:01 MySQL-2 CRON[28019]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 14:10:01 MySQL-2 CRON[28020]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 14:10:01 MySQL-2 CRON[28018]: (CRON) info (No MTA installed, discarding output)
+Dec 27 14:10:01 MySQL-2 kernel: [619352.111056] sh (28019): drop_caches: 3
+Dec 27 14:14:29 MySQL-2 do-agent[2306]: 2017/12/27 14:14:29 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 14:15:01 MySQL-2 CRON[28025]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 14:15:01 MySQL-2 CRON[28024]: (CRON) info (No MTA installed, discarding output)
+Dec 27 14:16:28 MySQL-2 do-agent[2306]: 2017/12/27 14:16:28 Checking for newer version of do-agent
+Dec 27 14:16:28 MySQL-2 do-agent[2306]: 2017/12/27 14:16:28 No repository update available
+Dec 27 14:17:01 MySQL-2 CRON[28029]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 27 14:20:01 MySQL-2 CRON[28033]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 14:20:01 MySQL-2 CRON[28035]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 14:20:01 MySQL-2 CRON[28032]: (CRON) info (No MTA installed, discarding output)
+Dec 27 14:20:01 MySQL-2 kernel: [619952.209174] sh (28033): drop_caches: 3
+Dec 27 14:25:01 MySQL-2 CRON[28039]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 14:25:01 MySQL-2 CRON[28038]: (CRON) info (No MTA installed, discarding output)
+Dec 27 14:30:01 MySQL-2 CRON[28044]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 14:30:01 MySQL-2 CRON[28046]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 14:30:01 MySQL-2 CRON[28043]: (CRON) info (No MTA installed, discarding output)
+Dec 27 14:30:02 MySQL-2 kernel: [620552.320537] sh (28044): drop_caches: 3
+Dec 27 14:35:01 MySQL-2 CRON[28050]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 14:35:01 MySQL-2 CRON[28049]: (CRON) info (No MTA installed, discarding output)
+Dec 27 14:40:01 MySQL-2 CRON[28055]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 14:40:01 MySQL-2 CRON[28058]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 14:40:01 MySQL-2 CRON[28054]: (CRON) info (No MTA installed, discarding output)
+Dec 27 14:40:01 MySQL-2 kernel: [621151.407677] sh (28058): drop_caches: 3
+Dec 27 14:42:54 MySQL-2 do-agent[2306]: 2017/12/27 14:42:54 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 14:45:01 MySQL-2 CRON[28062]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 14:45:01 MySQL-2 CRON[28061]: (CRON) info (No MTA installed, discarding output)
+Dec 27 14:49:11 MySQL-2 do-agent[2306]: 2017/12/27 14:49:11 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 14:50:01 MySQL-2 CRON[28067]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 14:50:01 MySQL-2 CRON[28068]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 14:50:01 MySQL-2 CRON[28066]: (CRON) info (No MTA installed, discarding output)
+Dec 27 14:50:01 MySQL-2 kernel: [621751.485546] sh (28067): drop_caches: 3
+Dec 27 14:54:21 MySQL-2 do-agent[2306]: 2017/12/27 14:54:21 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 14:55:01 MySQL-2 CRON[28074]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 14:55:01 MySQL-2 CRON[28073]: (CRON) info (No MTA installed, discarding output)
+Dec 27 15:00:01 MySQL-2 CRON[28079]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 15:00:01 MySQL-2 CRON[28081]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 15:00:01 MySQL-2 CRON[28078]: (CRON) info (No MTA installed, discarding output)
+Dec 27 15:00:01 MySQL-2 kernel: [622351.578840] sh (28079): drop_caches: 3
+Dec 27 15:05:01 MySQL-2 CRON[28085]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 15:05:01 MySQL-2 CRON[28084]: (CRON) info (No MTA installed, discarding output)
+Dec 27 15:10:01 MySQL-2 CRON[28090]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 15:10:01 MySQL-2 CRON[28091]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 15:10:01 MySQL-2 CRON[28089]: (CRON) info (No MTA installed, discarding output)
+Dec 27 15:10:01 MySQL-2 kernel: [622951.680896] sh (28091): drop_caches: 3
+Dec 27 15:10:34 MySQL-2 do-agent[2306]: 2017/12/27 15:10:34 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 15:13:46 MySQL-2 do-agent[2306]: 2017/12/27 15:13:46 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 15:15:01 MySQL-2 CRON[28096]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 15:15:01 MySQL-2 CRON[28095]: (CRON) info (No MTA installed, discarding output)
+Dec 27 15:16:42 MySQL-2 do-agent[2306]: 2017/12/27 15:16:42 Checking for newer version of do-agent
+Dec 27 15:16:42 MySQL-2 do-agent[2306]: 2017/12/27 15:16:42 No repository update available
+Dec 27 15:17:01 MySQL-2 CRON[28100]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 27 15:20:01 MySQL-2 CRON[28104]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 15:20:01 MySQL-2 CRON[28105]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 15:20:01 MySQL-2 CRON[28103]: (CRON) info (No MTA installed, discarding output)
+Dec 27 15:20:01 MySQL-2 kernel: [623551.785297] sh (28104): drop_caches: 3
+Dec 27 15:21:53 MySQL-2 do-agent[2306]: 2017/12/27 15:21:53 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 15:25:00 MySQL-2 do-agent[2306]: 2017/12/27 15:25:00 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 15:25:01 MySQL-2 CRON[28110]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 15:25:01 MySQL-2 CRON[28109]: (CRON) info (No MTA installed, discarding output)
+Dec 27 15:30:01 MySQL-2 CRON[28115]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 15:30:01 MySQL-2 CRON[28116]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 15:30:01 MySQL-2 CRON[28114]: (CRON) info (No MTA installed, discarding output)
+Dec 27 15:30:01 MySQL-2 kernel: [624151.896017] sh (28115): drop_caches: 3
+Dec 27 15:32:15 MySQL-2 do-agent[2306]: 2017/12/27 15:32:15 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 15:33:26 MySQL-2 do-agent[2306]: 2017/12/27 15:33:26 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 15:35:01 MySQL-2 CRON[28122]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 15:35:01 MySQL-2 CRON[28121]: (CRON) info (No MTA installed, discarding output)
+Dec 27 15:35:35 MySQL-2 do-agent[2306]: 2017/12/27 15:35:35 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 15:40:01 MySQL-2 CRON[28127]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 15:40:01 MySQL-2 CRON[28129]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 15:40:01 MySQL-2 CRON[28126]: (CRON) info (No MTA installed, discarding output)
+Dec 27 15:40:01 MySQL-2 kernel: [624751.986427] sh (28127): drop_caches: 3
+Dec 27 15:42:45 MySQL-2 do-agent[2306]: 2017/12/27 15:42:45 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 15:44:57 MySQL-2 do-agent[2306]: 2017/12/27 15:44:57 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 15:45:01 MySQL-2 CRON[28133]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 15:45:01 MySQL-2 CRON[28132]: (CRON) info (No MTA installed, discarding output)
+Dec 27 15:46:04 MySQL-2 do-agent[2306]: 2017/12/27 15:46:04 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 15:50:01 MySQL-2 CRON[28138]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 15:50:01 MySQL-2 CRON[28139]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 15:50:01 MySQL-2 CRON[28137]: (CRON) info (No MTA installed, discarding output)
+Dec 27 15:50:01 MySQL-2 kernel: [625352.093727] sh (28138): drop_caches: 3
+Dec 27 15:55:01 MySQL-2 CRON[28144]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 15:55:01 MySQL-2 CRON[28143]: (CRON) info (No MTA installed, discarding output)
+Dec 27 16:00:01 MySQL-2 CRON[28149]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 16:00:01 MySQL-2 CRON[28150]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 16:00:01 MySQL-2 CRON[28148]: (CRON) info (No MTA installed, discarding output)
+Dec 27 16:00:01 MySQL-2 kernel: [625952.201866] sh (28150): drop_caches: 3
+Dec 27 16:05:01 MySQL-2 CRON[28155]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 16:05:01 MySQL-2 CRON[28154]: (CRON) info (No MTA installed, discarding output)
+Dec 27 16:06:29 MySQL-2 do-agent[2306]: 2017/12/27 16:06:29 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 16:10:01 MySQL-2 CRON[28160]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 16:10:01 MySQL-2 CRON[28161]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 16:10:01 MySQL-2 CRON[28159]: (CRON) info (No MTA installed, discarding output)
+Dec 27 16:10:02 MySQL-2 kernel: [626552.308765] sh (28161): drop_caches: 3
+Dec 27 16:15:01 MySQL-2 CRON[28166]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 16:15:01 MySQL-2 CRON[28165]: (CRON) info (No MTA installed, discarding output)
+Dec 27 16:17:01 MySQL-2 CRON[28170]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 27 16:17:37 MySQL-2 do-agent[2306]: 2017/12/27 16:17:37 Checking for newer version of do-agent
+Dec 27 16:17:37 MySQL-2 do-agent[2306]: 2017/12/27 16:17:37 No repository update available
+Dec 27 16:20:01 MySQL-2 CRON[28174]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 16:20:01 MySQL-2 CRON[28175]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 16:20:01 MySQL-2 CRON[28173]: (CRON) info (No MTA installed, discarding output)
+Dec 27 16:20:01 MySQL-2 kernel: [627151.415367] sh (28174): drop_caches: 3
+Dec 27 16:25:01 MySQL-2 CRON[28180]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 16:25:01 MySQL-2 CRON[28179]: (CRON) info (No MTA installed, discarding output)
+Dec 27 16:30:01 MySQL-2 CRON[28185]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 16:30:01 MySQL-2 CRON[28186]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 16:30:01 MySQL-2 CRON[28184]: (CRON) info (No MTA installed, discarding output)
+Dec 27 16:30:01 MySQL-2 kernel: [627751.501969] sh (28185): drop_caches: 3
+Dec 27 16:34:23 MySQL-2 systemd[1]: Starting Daily apt download activities...
+Dec 27 16:34:24 MySQL-2 systemd[1]: Started Daily apt download activities.
+Dec 27 16:35:01 MySQL-2 CRON[28237]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 16:35:01 MySQL-2 CRON[28236]: (CRON) info (No MTA installed, discarding output)
+Dec 27 16:40:01 MySQL-2 CRON[28242]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 16:40:01 MySQL-2 CRON[28243]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 16:40:01 MySQL-2 CRON[28241]: (CRON) info (No MTA installed, discarding output)
+Dec 27 16:40:01 MySQL-2 kernel: [628351.577946] sh (28242): drop_caches: 3
+Dec 27 16:45:01 MySQL-2 CRON[28248]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 16:45:01 MySQL-2 CRON[28247]: (CRON) info (No MTA installed, discarding output)
+Dec 27 16:50:01 MySQL-2 CRON[28253]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 16:50:01 MySQL-2 CRON[28254]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 16:50:01 MySQL-2 CRON[28252]: (CRON) info (No MTA installed, discarding output)
+Dec 27 16:50:01 MySQL-2 kernel: [628951.656599] sh (28254): drop_caches: 3
+Dec 27 16:55:01 MySQL-2 CRON[28259]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 16:55:01 MySQL-2 CRON[28258]: (CRON) info (No MTA installed, discarding output)
+Dec 27 17:00:01 MySQL-2 CRON[28264]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 17:00:01 MySQL-2 CRON[28265]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 17:00:01 MySQL-2 CRON[28263]: (CRON) info (No MTA installed, discarding output)
+Dec 27 17:00:01 MySQL-2 kernel: [629551.756320] sh (28264): drop_caches: 3
+Dec 27 17:05:01 MySQL-2 CRON[28270]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 17:05:01 MySQL-2 CRON[28269]: (CRON) info (No MTA installed, discarding output)
+Dec 27 17:10:01 MySQL-2 CRON[28275]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 17:10:01 MySQL-2 CRON[28277]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 17:10:01 MySQL-2 CRON[28274]: (CRON) info (No MTA installed, discarding output)
+Dec 27 17:10:01 MySQL-2 kernel: [630151.853512] sh (28275): drop_caches: 3
+Dec 27 17:15:01 MySQL-2 CRON[28281]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 17:15:01 MySQL-2 CRON[28280]: (CRON) info (No MTA installed, discarding output)
+Dec 27 17:17:01 MySQL-2 CRON[28285]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 27 17:18:32 MySQL-2 do-agent[2306]: 2017/12/27 17:18:32 Checking for newer version of do-agent
+Dec 27 17:18:32 MySQL-2 do-agent[2306]: 2017/12/27 17:18:32 No repository update available
+Dec 27 17:20:01 MySQL-2 CRON[28289]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 17:20:01 MySQL-2 CRON[28290]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 17:20:01 MySQL-2 CRON[28288]: (CRON) info (No MTA installed, discarding output)
+Dec 27 17:20:01 MySQL-2 kernel: [630751.957458] sh (28289): drop_caches: 3
+Dec 27 17:25:01 MySQL-2 CRON[28295]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 17:25:01 MySQL-2 CRON[28294]: (CRON) info (No MTA installed, discarding output)
+Dec 27 17:30:01 MySQL-2 CRON[28300]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 17:30:01 MySQL-2 CRON[28302]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 17:30:01 MySQL-2 CRON[28299]: (CRON) info (No MTA installed, discarding output)
+Dec 27 17:30:01 MySQL-2 kernel: [631352.051187] sh (28300): drop_caches: 3
+Dec 27 17:35:01 MySQL-2 CRON[28306]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 17:35:01 MySQL-2 CRON[28305]: (CRON) info (No MTA installed, discarding output)
+Dec 27 17:40:01 MySQL-2 CRON[28311]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 17:40:01 MySQL-2 CRON[28312]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 17:40:01 MySQL-2 CRON[28310]: (CRON) info (No MTA installed, discarding output)
+Dec 27 17:40:01 MySQL-2 kernel: [631952.149996] sh (28311): drop_caches: 3
+Dec 27 17:45:01 MySQL-2 CRON[28318]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 17:45:01 MySQL-2 CRON[28317]: (CRON) info (No MTA installed, discarding output)
+Dec 27 17:50:01 MySQL-2 CRON[28323]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 17:50:01 MySQL-2 CRON[28325]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 17:50:01 MySQL-2 CRON[28322]: (CRON) info (No MTA installed, discarding output)
+Dec 27 17:50:01 MySQL-2 kernel: [632552.269362] sh (28323): drop_caches: 3
+Dec 27 17:55:01 MySQL-2 CRON[28329]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 17:55:02 MySQL-2 CRON[28328]: (CRON) info (No MTA installed, discarding output)
+Dec 27 18:00:01 MySQL-2 CRON[28334]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 18:00:01 MySQL-2 CRON[28336]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 18:00:01 MySQL-2 CRON[28333]: (CRON) info (No MTA installed, discarding output)
+Dec 27 18:00:01 MySQL-2 kernel: [633151.368366] sh (28336): drop_caches: 3
+Dec 27 18:02:13 MySQL-2 systemd[1]: Starting Daily apt download activities...
+Dec 27 18:02:14 MySQL-2 systemd[1]: Started Daily apt download activities.
+Dec 27 18:05:01 MySQL-2 CRON[28388]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 18:05:01 MySQL-2 CRON[28387]: (CRON) info (No MTA installed, discarding output)
+Dec 27 18:10:01 MySQL-2 CRON[28393]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 18:10:01 MySQL-2 CRON[28394]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 18:10:01 MySQL-2 CRON[28392]: (CRON) info (No MTA installed, discarding output)
+Dec 27 18:10:01 MySQL-2 kernel: [633751.456937] sh (28394): drop_caches: 3
+Dec 27 18:15:01 MySQL-2 CRON[28399]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 18:15:01 MySQL-2 CRON[28398]: (CRON) info (No MTA installed, discarding output)
+Dec 27 18:17:01 MySQL-2 CRON[28403]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 27 18:18:34 MySQL-2 do-agent[2306]: 2017/12/27 18:18:34 Checking for newer version of do-agent
+Dec 27 18:18:34 MySQL-2 do-agent[2306]: 2017/12/27 18:18:34 No repository update available
+Dec 27 18:20:01 MySQL-2 CRON[28407]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 18:20:01 MySQL-2 CRON[28409]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 18:20:01 MySQL-2 CRON[28406]: (CRON) info (No MTA installed, discarding output)
+Dec 27 18:20:01 MySQL-2 kernel: [634351.554699] sh (28407): drop_caches: 3
+Dec 27 18:22:52 MySQL-2 do-agent[2306]: 2017/12/27 18:22:52 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 18:25:01 MySQL-2 CRON[28413]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 18:25:01 MySQL-2 CRON[28412]: (CRON) info (No MTA installed, discarding output)
+Dec 27 18:30:01 MySQL-2 CRON[28418]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 18:30:01 MySQL-2 CRON[28419]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 18:30:01 MySQL-2 CRON[28417]: (CRON) info (No MTA installed, discarding output)
+Dec 27 18:30:01 MySQL-2 kernel: [634951.638890] sh (28418): drop_caches: 3
+Dec 27 18:31:02 MySQL-2 do-agent[2306]: 2017/12/27 18:31:02 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 18:32:12 MySQL-2 do-agent[2306]: 2017/12/27 18:32:12 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 18:35:01 MySQL-2 CRON[28424]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 18:35:01 MySQL-2 CRON[28423]: (CRON) info (No MTA installed, discarding output)
+Dec 27 18:39:27 MySQL-2 do-agent[2306]: 2017/12/27 18:39:27 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 18:40:01 MySQL-2 CRON[28429]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 18:40:01 MySQL-2 CRON[28431]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 18:40:01 MySQL-2 CRON[28428]: (CRON) info (No MTA installed, discarding output)
+Dec 27 18:40:01 MySQL-2 kernel: [635551.732104] sh (28429): drop_caches: 3
+Dec 27 18:45:01 MySQL-2 CRON[28436]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 18:45:01 MySQL-2 CRON[28435]: (CRON) info (No MTA installed, discarding output)
+Dec 27 18:45:35 MySQL-2 do-agent[2306]: 2017/12/27 18:45:35 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 18:50:01 MySQL-2 CRON[28441]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 18:50:01 MySQL-2 CRON[28443]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 18:50:01 MySQL-2 CRON[28440]: (CRON) info (No MTA installed, discarding output)
+Dec 27 18:50:01 MySQL-2 kernel: [636151.804808] sh (28441): drop_caches: 3
+Dec 27 18:55:01 MySQL-2 CRON[28448]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 18:55:01 MySQL-2 CRON[28447]: (CRON) info (No MTA installed, discarding output)
+Dec 27 19:00:01 MySQL-2 CRON[28453]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 19:00:01 MySQL-2 CRON[28454]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 19:00:01 MySQL-2 CRON[28452]: (CRON) info (No MTA installed, discarding output)
+Dec 27 19:00:01 MySQL-2 kernel: [636751.901675] sh (28453): drop_caches: 3
+Dec 27 19:00:48 MySQL-2 do-agent[2306]: 2017/12/27 19:00:48 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 19:05:01 MySQL-2 CRON[28459]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 19:05:01 MySQL-2 CRON[28458]: (CRON) info (No MTA installed, discarding output)
+Dec 27 19:10:01 MySQL-2 CRON[28464]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 19:10:01 MySQL-2 CRON[28465]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 19:10:01 MySQL-2 CRON[28463]: (CRON) info (No MTA installed, discarding output)
+Dec 27 19:10:01 MySQL-2 kernel: [637352.000376] sh (28464): drop_caches: 3
+Dec 27 19:15:01 MySQL-2 CRON[28471]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 19:15:01 MySQL-2 CRON[28470]: (CRON) info (No MTA installed, discarding output)
+Dec 27 19:17:01 MySQL-2 CRON[28475]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 27 19:18:01 MySQL-2 do-agent[2306]: 2017/12/27 19:18:01 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 19:19:02 MySQL-2 do-agent[2306]: 2017/12/27 19:19:02 Checking for newer version of do-agent
+Dec 27 19:19:02 MySQL-2 do-agent[2306]: 2017/12/27 19:19:02 No repository update available
+Dec 27 19:20:01 MySQL-2 CRON[28479]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 19:20:01 MySQL-2 CRON[28482]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 19:20:01 MySQL-2 CRON[28478]: (CRON) info (No MTA installed, discarding output)
+Dec 27 19:20:01 MySQL-2 kernel: [637952.146326] sh (28482): drop_caches: 3
+Dec 27 19:25:01 MySQL-2 CRON[28486]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 19:25:01 MySQL-2 CRON[28485]: (CRON) info (No MTA installed, discarding output)
+Dec 27 19:30:01 MySQL-2 CRON[28493]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 19:30:01 MySQL-2 CRON[28495]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 19:30:01 MySQL-2 CRON[28492]: (CRON) info (No MTA installed, discarding output)
+Dec 27 19:30:01 MySQL-2 kernel: [638552.284722] sh (28493): drop_caches: 3
+Dec 27 19:30:14 MySQL-2 do-agent[2306]: 2017/12/27 19:30:14 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 19:35:02 MySQL-2 CRON[28499]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 19:35:02 MySQL-2 CRON[28498]: (CRON) info (No MTA installed, discarding output)
+Dec 27 19:36:30 MySQL-2 do-agent[2306]: 2017/12/27 19:36:30 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 19:40:01 MySQL-2 CRON[28505]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 19:40:01 MySQL-2 CRON[28506]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 19:40:01 MySQL-2 CRON[28504]: (CRON) info (No MTA installed, discarding output)
+Dec 27 19:40:01 MySQL-2 kernel: [639151.370641] sh (28506): drop_caches: 3
+Dec 27 19:45:01 MySQL-2 CRON[28511]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 19:45:01 MySQL-2 CRON[28510]: (CRON) info (No MTA installed, discarding output)
+Dec 27 19:50:01 MySQL-2 CRON[28516]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 19:50:01 MySQL-2 CRON[28517]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 19:50:01 MySQL-2 CRON[28515]: (CRON) info (No MTA installed, discarding output)
+Dec 27 19:50:01 MySQL-2 kernel: [639751.464318] sh (28516): drop_caches: 3
+Dec 27 19:55:01 MySQL-2 CRON[28522]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 19:55:01 MySQL-2 CRON[28521]: (CRON) info (No MTA installed, discarding output)
+Dec 27 20:00:01 MySQL-2 CRON[28527]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 20:00:01 MySQL-2 CRON[28528]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 20:00:01 MySQL-2 CRON[28526]: (CRON) info (No MTA installed, discarding output)
+Dec 27 20:00:01 MySQL-2 kernel: [640351.549843] sh (28528): drop_caches: 3
+Dec 27 20:05:01 MySQL-2 CRON[28533]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 20:05:01 MySQL-2 CRON[28532]: (CRON) info (No MTA installed, discarding output)
+Dec 27 20:07:56 MySQL-2 do-agent[2306]: 2017/12/27 20:07:56 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 20:10:01 MySQL-2 CRON[28538]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 20:10:01 MySQL-2 CRON[28539]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 20:10:01 MySQL-2 CRON[28537]: (CRON) info (No MTA installed, discarding output)
+Dec 27 20:10:01 MySQL-2 kernel: [640951.643877] sh (28538): drop_caches: 3
+Dec 27 20:15:01 MySQL-2 CRON[28545]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 20:15:01 MySQL-2 CRON[28544]: (CRON) info (No MTA installed, discarding output)
+Dec 27 20:17:01 MySQL-2 CRON[28549]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 27 20:19:09 MySQL-2 do-agent[2306]: 2017/12/27 20:19:09 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 20:20:01 MySQL-2 CRON[28553]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 20:20:01 MySQL-2 CRON[28554]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 20:20:01 MySQL-2 CRON[28552]: (CRON) info (No MTA installed, discarding output)
+Dec 27 20:20:01 MySQL-2 kernel: [641551.751597] sh (28554): drop_caches: 3
+Dec 27 20:20:08 MySQL-2 do-agent[2306]: 2017/12/27 20:20:08 Checking for newer version of do-agent
+Dec 27 20:20:08 MySQL-2 do-agent[2306]: 2017/12/27 20:20:08 No repository update available
+Dec 27 20:20:18 MySQL-2 do-agent[2306]: 2017/12/27 20:20:18 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 20:24:28 MySQL-2 do-agent[2306]: 2017/12/27 20:24:28 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 20:25:01 MySQL-2 CRON[28559]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 20:25:01 MySQL-2 CRON[28558]: (CRON) info (No MTA installed, discarding output)
+Dec 27 20:28:39 MySQL-2 do-agent[2306]: 2017/12/27 20:28:39 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 20:30:01 MySQL-2 CRON[28565]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 20:30:01 MySQL-2 CRON[28566]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 20:30:01 MySQL-2 CRON[28567]: (root) CMD (sh /backup/scripts/dbbackup.sh)
+Dec 27 20:30:01 MySQL-2 CRON[28563]: (CRON) info (No MTA installed, discarding output)
+Dec 27 20:30:01 MySQL-2 kernel: [642151.869551] sh (28566): drop_caches: 3
+Dec 27 20:30:09 MySQL-2 CRON[28564]: (CRON) info (No MTA installed, discarding output)
+Dec 27 20:31:41 MySQL-2 do-agent[2306]: 2017/12/27 20:31:41 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 20:35:01 MySQL-2 CRON[28598]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 20:35:01 MySQL-2 CRON[28597]: (CRON) info (No MTA installed, discarding output)
+Dec 27 20:35:52 MySQL-2 do-agent[2306]: 2017/12/27 20:35:52 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 20:37:02 MySQL-2 do-agent[2306]: 2017/12/27 20:37:02 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 20:40:01 MySQL-2 CRON[28603]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 20:40:01 MySQL-2 CRON[28604]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 20:40:01 MySQL-2 CRON[28602]: (CRON) info (No MTA installed, discarding output)
+Dec 27 20:40:01 MySQL-2 kernel: [642751.675899] sh (28603): drop_caches: 3
+Dec 27 20:44:05 MySQL-2 do-agent[2306]: 2017/12/27 20:44:05 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 20:45:01 MySQL-2 CRON[28609]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 20:45:01 MySQL-2 CRON[28608]: (CRON) info (No MTA installed, discarding output)
+Dec 27 20:49:17 MySQL-2 do-agent[2306]: 2017/12/27 20:49:17 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 20:50:01 MySQL-2 CRON[28614]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 20:50:01 MySQL-2 CRON[28615]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 20:50:01 MySQL-2 CRON[28613]: (CRON) info (No MTA installed, discarding output)
+Dec 27 20:50:01 MySQL-2 kernel: [643351.762186] sh (28614): drop_caches: 3
+Dec 27 20:51:27 MySQL-2 do-agent[2306]: 2017/12/27 20:51:27 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 20:53:33 MySQL-2 do-agent[2306]: 2017/12/27 20:53:33 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 20:55:01 MySQL-2 CRON[28620]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 20:55:01 MySQL-2 CRON[28619]: (CRON) info (No MTA installed, discarding output)
+Dec 27 21:00:01 MySQL-2 CRON[28625]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 21:00:01 MySQL-2 CRON[28626]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 21:00:01 MySQL-2 CRON[28624]: (CRON) info (No MTA installed, discarding output)
+Dec 27 21:00:01 MySQL-2 kernel: [643951.882797] sh (28625): drop_caches: 3
+Dec 27 21:04:40 MySQL-2 do-agent[2306]: 2017/12/27 21:04:40 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 21:05:01 MySQL-2 CRON[28631]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 21:05:01 MySQL-2 CRON[28630]: (CRON) info (No MTA installed, discarding output)
+Dec 27 21:10:01 MySQL-2 CRON[28636]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 21:10:01 MySQL-2 CRON[28637]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 21:10:01 MySQL-2 CRON[28635]: (CRON) info (No MTA installed, discarding output)
+Dec 27 21:10:01 MySQL-2 kernel: [644551.965987] sh (28636): drop_caches: 3
+Dec 27 21:11:58 MySQL-2 do-agent[2306]: 2017/12/27 21:11:58 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 21:15:01 MySQL-2 CRON[28642]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 21:15:01 MySQL-2 CRON[28641]: (CRON) info (No MTA installed, discarding output)
+Dec 27 21:17:01 MySQL-2 CRON[28646]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 27 21:18:12 MySQL-2 do-agent[2306]: 2017/12/27 21:18:12 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 21:20:01 MySQL-2 CRON[28650]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 21:20:01 MySQL-2 CRON[28652]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 21:20:01 MySQL-2 CRON[28649]: (CRON) info (No MTA installed, discarding output)
+Dec 27 21:20:01 MySQL-2 kernel: [645152.080856] sh (28650): drop_caches: 3
+Dec 27 21:20:10 MySQL-2 do-agent[2306]: 2017/12/27 21:20:10 Checking for newer version of do-agent
+Dec 27 21:20:10 MySQL-2 do-agent[2306]: 2017/12/27 21:20:10 No repository update available
+Dec 27 21:22:20 MySQL-2 do-agent[2306]: 2017/12/27 21:22:20 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 21:25:01 MySQL-2 CRON[28656]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 21:25:01 MySQL-2 CRON[28655]: (CRON) info (No MTA installed, discarding output)
+Dec 27 21:27:31 MySQL-2 do-agent[2306]: 2017/12/27 21:27:31 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 21:30:01 MySQL-2 CRON[28661]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 21:30:01 MySQL-2 CRON[28662]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 21:30:01 MySQL-2 CRON[28660]: (CRON) info (No MTA installed, discarding output)
+Dec 27 21:30:01 MySQL-2 kernel: [645752.187878] sh (28661): drop_caches: 3
+Dec 27 21:35:01 MySQL-2 CRON[28668]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 21:35:01 MySQL-2 CRON[28667]: (CRON) info (No MTA installed, discarding output)
+Dec 27 21:36:47 MySQL-2 do-agent[2306]: 2017/12/27 21:36:47 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 21:38:57 MySQL-2 do-agent[2306]: 2017/12/27 21:38:57 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 21:40:01 MySQL-2 CRON[28673]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 21:40:01 MySQL-2 CRON[28674]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 21:40:01 MySQL-2 CRON[28672]: (CRON) info (No MTA installed, discarding output)
+Dec 27 21:40:01 MySQL-2 kernel: [646352.283622] sh (28674): drop_caches: 3
+Dec 27 21:44:06 MySQL-2 do-agent[2306]: 2017/12/27 21:44:06 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 21:45:01 MySQL-2 CRON[28679]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 21:45:02 MySQL-2 CRON[28678]: (CRON) info (No MTA installed, discarding output)
+Dec 27 21:49:18 MySQL-2 do-agent[2306]: 2017/12/27 21:49:18 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 21:50:01 MySQL-2 CRON[28684]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 21:50:01 MySQL-2 CRON[28685]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 21:50:01 MySQL-2 CRON[28683]: (CRON) info (No MTA installed, discarding output)
+Dec 27 21:50:01 MySQL-2 kernel: [646951.361569] sh (28685): drop_caches: 3
+Dec 27 21:55:01 MySQL-2 CRON[28690]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 21:55:01 MySQL-2 CRON[28689]: (CRON) info (No MTA installed, discarding output)
+Dec 27 21:58:26 MySQL-2 do-agent[2306]: 2017/12/27 21:58:26 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 21:59:35 MySQL-2 do-agent[2306]: 2017/12/27 21:59:35 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 22:00:01 MySQL-2 CRON[28695]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 22:00:01 MySQL-2 CRON[28696]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 22:00:01 MySQL-2 CRON[28694]: (CRON) info (No MTA installed, discarding output)
+Dec 27 22:00:01 MySQL-2 kernel: [647551.449841] sh (28696): drop_caches: 3
+Dec 27 22:05:01 MySQL-2 CRON[28701]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 22:05:01 MySQL-2 CRON[28700]: (CRON) info (No MTA installed, discarding output)
+Dec 27 22:09:48 MySQL-2 do-agent[2306]: 2017/12/27 22:09:48 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 22:10:01 MySQL-2 CRON[28706]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 22:10:01 MySQL-2 CRON[28707]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 22:10:01 MySQL-2 CRON[28705]: (CRON) info (No MTA installed, discarding output)
+Dec 27 22:10:01 MySQL-2 kernel: [648151.544057] sh (28706): drop_caches: 3
+Dec 27 22:14:00 MySQL-2 do-agent[2306]: 2017/12/27 22:14:00 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 22:15:01 MySQL-2 CRON[28712]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 22:15:01 MySQL-2 CRON[28711]: (CRON) info (No MTA installed, discarding output)
+Dec 27 22:17:01 MySQL-2 CRON[28716]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 27 22:20:01 MySQL-2 CRON[28720]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 22:20:01 MySQL-2 CRON[28721]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 22:20:01 MySQL-2 CRON[28719]: (CRON) info (No MTA installed, discarding output)
+Dec 27 22:20:01 MySQL-2 kernel: [648751.655613] sh (28721): drop_caches: 3
+Dec 27 22:20:56 MySQL-2 do-agent[2306]: 2017/12/27 22:20:56 Checking for newer version of do-agent
+Dec 27 22:20:56 MySQL-2 do-agent[2306]: 2017/12/27 22:20:56 No repository update available
+Dec 27 22:25:01 MySQL-2 CRON[28726]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 22:25:01 MySQL-2 CRON[28725]: (CRON) info (No MTA installed, discarding output)
+Dec 27 22:25:07 MySQL-2 do-agent[2306]: 2017/12/27 22:25:07 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 22:26:13 MySQL-2 do-agent[2306]: 2017/12/27 22:26:13 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 22:27:23 MySQL-2 do-agent[2306]: 2017/12/27 22:27:23 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 22:30:01 MySQL-2 CRON[28732]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 22:30:01 MySQL-2 CRON[28734]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 22:30:01 MySQL-2 CRON[28731]: (CRON) info (No MTA installed, discarding output)
+Dec 27 22:30:01 MySQL-2 kernel: [649351.742761] sh (28734): drop_caches: 3
+Dec 27 22:30:34 MySQL-2 do-agent[2306]: 2017/12/27 22:30:34 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 22:32:47 MySQL-2 do-agent[2306]: 2017/12/27 22:32:47 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 22:35:01 MySQL-2 CRON[28756]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 22:35:01 MySQL-2 CRON[28755]: (CRON) info (No MTA installed, discarding output)
+Dec 27 22:35:55 MySQL-2 do-agent[2306]: 2017/12/27 22:35:55 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 22:40:01 MySQL-2 CRON[28761]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 22:40:01 MySQL-2 CRON[28762]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 22:40:01 MySQL-2 CRON[28760]: (CRON) info (No MTA installed, discarding output)
+Dec 27 22:40:01 MySQL-2 kernel: [649951.864551] sh (28762): drop_caches: 3
+Dec 27 22:45:01 MySQL-2 CRON[28767]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 22:45:01 MySQL-2 CRON[28766]: (CRON) info (No MTA installed, discarding output)
+Dec 27 22:46:02 MySQL-2 do-agent[2306]: 2017/12/27 22:46:02 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 22:47:08 MySQL-2 do-agent[2306]: 2017/12/27 22:47:08 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 22:50:01 MySQL-2 CRON[28772]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 22:50:01 MySQL-2 CRON[28773]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 22:50:01 MySQL-2 CRON[28771]: (CRON) info (No MTA installed, discarding output)
+Dec 27 22:50:01 MySQL-2 kernel: [650551.958993] sh (28772): drop_caches: 3
+Dec 27 22:55:01 MySQL-2 CRON[28778]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 22:55:01 MySQL-2 CRON[28777]: (CRON) info (No MTA installed, discarding output)
+Dec 27 23:00:01 MySQL-2 CRON[28783]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 23:00:01 MySQL-2 CRON[28785]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 23:00:01 MySQL-2 CRON[28782]: (CRON) info (No MTA installed, discarding output)
+Dec 27 23:00:01 MySQL-2 kernel: [651152.051591] sh (28783): drop_caches: 3
+Dec 27 23:01:18 MySQL-2 do-agent[2306]: 2017/12/27 23:01:18 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 23:03:28 MySQL-2 do-agent[2306]: 2017/12/27 23:03:28 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 23:05:01 MySQL-2 CRON[28789]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 23:05:01 MySQL-2 CRON[28788]: (CRON) info (No MTA installed, discarding output)
+Dec 27 23:07:43 MySQL-2 do-agent[2306]: 2017/12/27 23:07:43 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 23:10:01 MySQL-2 CRON[28794]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 23:10:01 MySQL-2 CRON[28796]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 23:10:01 MySQL-2 CRON[28793]: (CRON) info (No MTA installed, discarding output)
+Dec 27 23:10:01 MySQL-2 kernel: [651752.133397] sh (28796): drop_caches: 3
+Dec 27 23:11:53 MySQL-2 do-agent[2306]: 2017/12/27 23:11:53 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 23:15:01 MySQL-2 CRON[28800]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 23:15:01 MySQL-2 CRON[28799]: (CRON) info (No MTA installed, discarding output)
+Dec 27 23:17:01 MySQL-2 CRON[28804]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 27 23:20:01 MySQL-2 CRON[28808]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 23:20:01 MySQL-2 CRON[28809]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 23:20:01 MySQL-2 CRON[28807]: (CRON) info (No MTA installed, discarding output)
+Dec 27 23:20:01 MySQL-2 kernel: [652352.250212] sh (28808): drop_caches: 3
+Dec 27 23:20:57 MySQL-2 do-agent[2306]: 2017/12/27 23:20:57 Checking for newer version of do-agent
+Dec 27 23:20:58 MySQL-2 do-agent[2306]: 2017/12/27 23:20:58 No repository update available
+Dec 27 23:23:08 MySQL-2 do-agent[2306]: 2017/12/27 23:23:08 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 23:25:01 MySQL-2 CRON[28814]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 23:25:02 MySQL-2 CRON[28813]: (CRON) info (No MTA installed, discarding output)
+Dec 27 23:29:21 MySQL-2 do-agent[2306]: 2017/12/27 23:29:21 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 23:30:01 MySQL-2 CRON[28819]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 23:30:01 MySQL-2 CRON[28821]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 23:30:01 MySQL-2 CRON[28818]: (CRON) info (No MTA installed, discarding output)
+Dec 27 23:30:01 MySQL-2 kernel: [652951.353745] sh (28819): drop_caches: 3
+Dec 27 23:35:01 MySQL-2 CRON[28825]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 23:35:01 MySQL-2 CRON[28824]: (CRON) info (No MTA installed, discarding output)
+Dec 27 23:40:01 MySQL-2 CRON[28830]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 23:40:01 MySQL-2 CRON[28832]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 23:40:01 MySQL-2 CRON[28829]: (CRON) info (No MTA installed, discarding output)
+Dec 27 23:40:01 MySQL-2 kernel: [653551.437457] sh (28830): drop_caches: 3
+Dec 27 23:45:01 MySQL-2 CRON[28836]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 23:45:01 MySQL-2 CRON[28835]: (CRON) info (No MTA installed, discarding output)
+Dec 27 23:47:35 MySQL-2 do-agent[2306]: 2017/12/27 23:47:35 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 23:50:01 MySQL-2 CRON[28841]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 27 23:50:01 MySQL-2 CRON[28843]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 23:50:01 MySQL-2 CRON[28840]: (CRON) info (No MTA installed, discarding output)
+Dec 27 23:50:01 MySQL-2 kernel: [654151.539683] sh (28841): drop_caches: 3
+Dec 27 23:54:48 MySQL-2 do-agent[2306]: 2017/12/27 23:54:48 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 27 23:55:01 MySQL-2 CRON[28847]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 27 23:55:01 MySQL-2 CRON[28846]: (CRON) info (No MTA installed, discarding output)
+Dec 28 00:00:01 MySQL-2 CRON[28852]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 28 00:00:01 MySQL-2 CRON[28853]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 00:00:01 MySQL-2 CRON[28851]: (CRON) info (No MTA installed, discarding output)
+Dec 28 00:00:01 MySQL-2 kernel: [654751.620462] sh (28852): drop_caches: 3
+Dec 28 00:01:01 MySQL-2 do-agent[2306]: 2017/12/28 00:01:01 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 00:04:08 MySQL-2 do-agent[2306]: 2017/12/28 00:04:08 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 00:05:01 MySQL-2 CRON[28858]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 00:05:01 MySQL-2 CRON[28857]: (CRON) info (No MTA installed, discarding output)
+Dec 28 00:07:20 MySQL-2 do-agent[2306]: 2017/12/28 00:07:20 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 00:10:01 MySQL-2 CRON[28863]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 28 00:10:01 MySQL-2 CRON[28864]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 00:10:01 MySQL-2 kernel: [655351.706709] sh (28863): drop_caches: 3
+Dec 28 00:10:01 MySQL-2 CRON[28862]: (CRON) info (No MTA installed, discarding output)
+Dec 28 00:13:31 MySQL-2 do-agent[2306]: 2017/12/28 00:13:31 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 00:14:41 MySQL-2 do-agent[2306]: 2017/12/28 00:14:41 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 00:15:01 MySQL-2 CRON[28869]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 00:15:01 MySQL-2 CRON[28868]: (CRON) info (No MTA installed, discarding output)
+Dec 28 00:17:01 MySQL-2 CRON[28873]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 28 00:20:01 MySQL-2 CRON[28877]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 28 00:20:01 MySQL-2 CRON[28878]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 00:20:01 MySQL-2 CRON[28876]: (CRON) info (No MTA installed, discarding output)
+Dec 28 00:20:01 MySQL-2 kernel: [655951.811839] sh (28877): drop_caches: 3
+Dec 28 00:21:42 MySQL-2 do-agent[2306]: 2017/12/28 00:21:42 Checking for newer version of do-agent
+Dec 28 00:21:42 MySQL-2 do-agent[2306]: 2017/12/28 00:21:42 No repository update available
+Dec 28 00:23:52 MySQL-2 do-agent[2306]: 2017/12/28 00:23:52 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 00:25:01 MySQL-2 CRON[28883]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 00:25:01 MySQL-2 CRON[28882]: (CRON) info (No MTA installed, discarding output)
+Dec 28 00:29:05 MySQL-2 do-agent[2306]: 2017/12/28 00:29:05 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 00:30:01 MySQL-2 CRON[28888]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 00:30:01 MySQL-2 CRON[28889]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 28 00:30:01 MySQL-2 CRON[28887]: (CRON) info (No MTA installed, discarding output)
+Dec 28 00:30:01 MySQL-2 kernel: [656551.929753] sh (28889): drop_caches: 3
+Dec 28 00:35:01 MySQL-2 CRON[28894]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 00:35:01 MySQL-2 CRON[28893]: (CRON) info (No MTA installed, discarding output)
+Dec 28 00:36:16 MySQL-2 do-agent[2306]: 2017/12/28 00:36:16 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 00:37:27 MySQL-2 do-agent[2306]: 2017/12/28 00:37:27 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 00:39:40 MySQL-2 do-agent[2306]: 2017/12/28 00:39:40 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 00:40:01 MySQL-2 CRON[28899]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 28 00:40:01 MySQL-2 CRON[28900]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 00:40:01 MySQL-2 CRON[28898]: (CRON) info (No MTA installed, discarding output)
+Dec 28 00:40:01 MySQL-2 kernel: [657152.044716] sh (28899): drop_caches: 3
+Dec 28 00:45:01 MySQL-2 CRON[28905]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 00:45:01 MySQL-2 CRON[28904]: (CRON) info (No MTA installed, discarding output)
+Dec 28 00:46:55 MySQL-2 do-agent[2306]: 2017/12/28 00:46:55 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 00:50:01 MySQL-2 CRON[28910]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 00:50:01 MySQL-2 CRON[28911]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 28 00:50:01 MySQL-2 CRON[28909]: (CRON) info (No MTA installed, discarding output)
+Dec 28 00:50:01 MySQL-2 kernel: [657752.161823] sh (28911): drop_caches: 3
+Dec 28 00:50:58 MySQL-2 do-agent[2306]: 2017/12/28 00:50:58 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 00:52:14 MySQL-2 do-agent[2306]: 2017/12/28 00:52:14 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 00:55:01 MySQL-2 CRON[28916]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 00:55:01 MySQL-2 CRON[28915]: (CRON) info (No MTA installed, discarding output)
+Dec 28 01:00:01 MySQL-2 CRON[28921]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 01:00:01 MySQL-2 CRON[28923]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 28 01:00:01 MySQL-2 CRON[28920]: (CRON) info (No MTA installed, discarding output)
+Dec 28 01:00:01 MySQL-2 kernel: [658352.252060] sh (28923): drop_caches: 3
+Dec 28 01:00:33 MySQL-2 do-agent[2306]: 2017/12/28 01:00:33 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 01:03:45 MySQL-2 do-agent[2306]: 2017/12/28 01:03:45 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 01:05:01 MySQL-2 CRON[28927]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 01:05:01 MySQL-2 CRON[28926]: (CRON) info (No MTA installed, discarding output)
+Dec 28 01:09:51 MySQL-2 do-agent[2306]: 2017/12/28 01:09:51 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 01:10:02 MySQL-2 CRON[28932]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 01:10:02 MySQL-2 CRON[28934]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 28 01:10:02 MySQL-2 CRON[28931]: (CRON) info (No MTA installed, discarding output)
+Dec 28 01:10:02 MySQL-2 kernel: [658952.355663] sh (28934): drop_caches: 3
+Dec 28 01:13:59 MySQL-2 do-agent[2306]: 2017/12/28 01:13:59 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 01:15:01 MySQL-2 CRON[28939]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 01:15:01 MySQL-2 CRON[28938]: (CRON) info (No MTA installed, discarding output)
+Dec 28 01:17:01 MySQL-2 CRON[28943]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 28 01:20:01 MySQL-2 CRON[28947]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 28 01:20:01 MySQL-2 CRON[28948]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 01:20:01 MySQL-2 CRON[28946]: (CRON) info (No MTA installed, discarding output)
+Dec 28 01:20:01 MySQL-2 kernel: [659551.441159] sh (28947): drop_caches: 3
+Dec 28 01:21:59 MySQL-2 do-agent[2306]: 2017/12/28 01:21:59 Checking for newer version of do-agent
+Dec 28 01:21:59 MySQL-2 do-agent[2306]: 2017/12/28 01:21:59 No repository update available
+Dec 28 01:25:01 MySQL-2 CRON[28953]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 01:25:01 MySQL-2 CRON[28952]: (CRON) info (No MTA installed, discarding output)
+Dec 28 01:27:10 MySQL-2 do-agent[2306]: 2017/12/28 01:27:10 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 01:28:21 MySQL-2 do-agent[2306]: 2017/12/28 01:28:21 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 01:30:01 MySQL-2 CRON[28958]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 28 01:30:01 MySQL-2 CRON[28959]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 01:30:01 MySQL-2 CRON[28957]: (CRON) info (No MTA installed, discarding output)
+Dec 28 01:30:01 MySQL-2 kernel: [660151.516276] sh (28958): drop_caches: 3
+Dec 28 01:30:02 MySQL-2 systemd[1]: Created slice User Slice of root.
+Dec 28 01:30:02 MySQL-2 systemd[1]: Starting User Manager for UID 0...
+Dec 28 01:30:02 MySQL-2 systemd[1]: Started Session 3527 of user root.
+Dec 28 01:30:02 MySQL-2 systemd[28965]: Reached target Paths.
+Dec 28 01:30:02 MySQL-2 systemd[28965]: Reached target Timers.
+Dec 28 01:30:02 MySQL-2 systemd[28965]: Reached target Sockets.
+Dec 28 01:30:02 MySQL-2 systemd[28965]: Reached target Basic System.
+Dec 28 01:30:02 MySQL-2 systemd[28965]: Reached target Default.
+Dec 28 01:30:02 MySQL-2 systemd[28965]: Startup finished in 23ms.
+Dec 28 01:30:02 MySQL-2 systemd[1]: Started User Manager for UID 0.
+Dec 28 01:30:04 MySQL-2 systemd[1]: Stopping User Manager for UID 0...
+Dec 28 01:30:04 MySQL-2 systemd[28965]: Stopped target Default.
+Dec 28 01:30:04 MySQL-2 systemd[28965]: Reached target Shutdown.
+Dec 28 01:30:04 MySQL-2 systemd[28965]: Starting Exit the Session...
+Dec 28 01:30:04 MySQL-2 systemd[28965]: Stopped target Basic System.
+Dec 28 01:30:04 MySQL-2 systemd[28965]: Stopped target Sockets.
+Dec 28 01:30:04 MySQL-2 systemd[28965]: Stopped target Timers.
+Dec 28 01:30:04 MySQL-2 systemd[28965]: Stopped target Paths.
+Dec 28 01:30:04 MySQL-2 systemd[28965]: Received SIGRTMIN+24 from PID 29035 (kill).
+Dec 28 01:30:04 MySQL-2 systemd[1]: Stopped User Manager for UID 0.
+Dec 28 01:30:04 MySQL-2 systemd[1]: Removed slice User Slice of root.
+Dec 28 01:30:04 MySQL-2 systemd[1]: Created slice User Slice of root.
+Dec 28 01:30:04 MySQL-2 systemd[1]: Starting User Manager for UID 0...
+Dec 28 01:30:04 MySQL-2 systemd[1]: Started Session 3528 of user root.
+Dec 28 01:30:04 MySQL-2 systemd[29045]: Reached target Sockets.
+Dec 28 01:30:04 MySQL-2 systemd[29045]: Reached target Timers.
+Dec 28 01:30:04 MySQL-2 systemd[29045]: Reached target Paths.
+Dec 28 01:30:04 MySQL-2 systemd[29045]: Reached target Basic System.
+Dec 28 01:30:04 MySQL-2 systemd[29045]: Reached target Default.
+Dec 28 01:30:04 MySQL-2 systemd[29045]: Startup finished in 17ms.
+Dec 28 01:30:04 MySQL-2 systemd[1]: Started User Manager for UID 0.
+Dec 28 01:31:00 MySQL-2 systemd[1]: Stopping User Manager for UID 0...
+Dec 28 01:31:00 MySQL-2 systemd[29045]: Stopped target Default.
+Dec 28 01:31:00 MySQL-2 systemd[29045]: Stopped target Basic System.
+Dec 28 01:31:00 MySQL-2 systemd[29045]: Stopped target Timers.
+Dec 28 01:31:00 MySQL-2 systemd[29045]: Stopped target Sockets.
+Dec 28 01:31:00 MySQL-2 systemd[29045]: Stopped target Paths.
+Dec 28 01:31:00 MySQL-2 systemd[29045]: Reached target Shutdown.
+Dec 28 01:31:00 MySQL-2 systemd[29045]: Starting Exit the Session...
+Dec 28 01:31:00 MySQL-2 systemd[29045]: Received SIGRTMIN+24 from PID 29085 (kill).
+Dec 28 01:31:00 MySQL-2 systemd[1]: Stopped User Manager for UID 0.
+Dec 28 01:31:00 MySQL-2 systemd[1]: Removed slice User Slice of root.
+Dec 28 01:31:32 MySQL-2 do-agent[2306]: 2017/12/28 01:31:32 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 01:35:01 MySQL-2 CRON[29093]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 01:35:01 MySQL-2 CRON[29092]: (CRON) info (No MTA installed, discarding output)
+Dec 28 01:40:01 MySQL-2 CRON[29098]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 28 01:40:01 MySQL-2 CRON[29099]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 01:40:01 MySQL-2 CRON[29097]: (CRON) info (No MTA installed, discarding output)
+Dec 28 01:40:02 MySQL-2 kernel: [660752.773845] sh (29098): drop_caches: 3
+Dec 28 01:44:46 MySQL-2 do-agent[2306]: 2017/12/28 01:44:46 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 01:45:01 MySQL-2 CRON[29105]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 01:45:01 MySQL-2 CRON[29104]: (CRON) info (No MTA installed, discarding output)
+Dec 28 01:50:01 MySQL-2 CRON[29110]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 28 01:50:01 MySQL-2 CRON[29111]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 01:50:01 MySQL-2 CRON[29109]: (CRON) info (No MTA installed, discarding output)
+Dec 28 01:50:01 MySQL-2 kernel: [661351.875724] sh (29110): drop_caches: 3
+Dec 28 01:55:01 MySQL-2 CRON[29116]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 01:55:01 MySQL-2 CRON[29115]: (CRON) info (No MTA installed, discarding output)
+Dec 28 02:00:01 MySQL-2 CRON[29121]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 02:00:01 MySQL-2 CRON[29122]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 28 02:00:01 MySQL-2 CRON[29120]: (CRON) info (No MTA installed, discarding output)
+Dec 28 02:00:01 MySQL-2 kernel: [661951.979514] sh (29122): drop_caches: 3
+Dec 28 02:01:04 MySQL-2 do-agent[2306]: 2017/12/28 02:01:04 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 02:02:15 MySQL-2 do-agent[2306]: 2017/12/28 02:02:15 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 02:05:01 MySQL-2 CRON[29127]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 02:05:01 MySQL-2 CRON[29126]: (CRON) info (No MTA installed, discarding output)
+Dec 28 02:05:20 MySQL-2 do-agent[2306]: 2017/12/28 02:05:20 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 02:07:29 MySQL-2 do-agent[2306]: 2017/12/28 02:07:29 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 02:09:34 MySQL-2 do-agent[2306]: 2017/12/28 02:09:34 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 02:10:01 MySQL-2 CRON[29133]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 02:10:01 MySQL-2 CRON[29132]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 28 02:10:01 MySQL-2 CRON[29131]: (CRON) info (No MTA installed, discarding output)
+Dec 28 02:10:01 MySQL-2 kernel: [662552.088434] sh (29132): drop_caches: 3
+Dec 28 02:12:37 MySQL-2 do-agent[2306]: 2017/12/28 02:12:37 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 02:15:01 MySQL-2 CRON[29139]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 02:15:01 MySQL-2 CRON[29140]: (root) CMD (   test -x /etc/cron.daily/popularity-contest && /etc/cron.daily/popularity-contest --crond)
+Dec 28 02:15:01 MySQL-2 CRON[29138]: (CRON) info (No MTA installed, discarding output)
+Dec 28 02:16:48 MySQL-2 do-agent[2306]: 2017/12/28 02:16:48 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 02:17:01 MySQL-2 CRON[29145]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 28 02:20:01 MySQL-2 CRON[29149]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 28 02:20:01 MySQL-2 CRON[29150]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 02:20:01 MySQL-2 CRON[29148]: (CRON) info (No MTA installed, discarding output)
+Dec 28 02:20:01 MySQL-2 kernel: [663152.204963] sh (29149): drop_caches: 3
+Dec 28 02:22:01 MySQL-2 do-agent[2306]: 2017/12/28 02:22:01 Checking for newer version of do-agent
+Dec 28 02:22:01 MySQL-2 do-agent[2306]: 2017/12/28 02:22:01 No repository update available
+Dec 28 02:22:11 MySQL-2 do-agent[2306]: 2017/12/28 02:22:11 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 02:24:24 MySQL-2 do-agent[2306]: 2017/12/28 02:24:24 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 02:25:01 MySQL-2 CRON[29155]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 02:25:01 MySQL-2 CRON[29154]: (CRON) info (No MTA installed, discarding output)
+Dec 28 02:30:01 MySQL-2 CRON[29160]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 02:30:01 MySQL-2 CRON[29161]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 28 02:30:01 MySQL-2 CRON[29159]: (CRON) info (No MTA installed, discarding output)
+Dec 28 02:30:02 MySQL-2 kernel: [663752.305012] sh (29161): drop_caches: 3
+Dec 28 02:30:31 MySQL-2 do-agent[2306]: 2017/12/28 02:30:31 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 02:35:01 MySQL-2 CRON[29166]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 02:35:01 MySQL-2 CRON[29165]: (CRON) info (No MTA installed, discarding output)
+Dec 28 02:40:01 MySQL-2 CRON[29171]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 02:40:01 MySQL-2 CRON[29172]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 28 02:40:01 MySQL-2 CRON[29170]: (CRON) info (No MTA installed, discarding output)
+Dec 28 02:40:01 MySQL-2 kernel: [664351.382384] sh (29172): drop_caches: 3
+Dec 28 02:45:01 MySQL-2 CRON[29178]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 02:45:01 MySQL-2 CRON[29177]: (CRON) info (No MTA installed, discarding output)
+Dec 28 02:50:01 MySQL-2 CRON[29183]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 02:50:01 MySQL-2 CRON[29186]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 28 02:50:01 MySQL-2 CRON[29182]: (CRON) info (No MTA installed, discarding output)
+Dec 28 02:50:01 MySQL-2 kernel: [664951.462681] sh (29186): drop_caches: 3
+Dec 28 02:55:01 MySQL-2 CRON[29190]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 02:55:01 MySQL-2 CRON[29189]: (CRON) info (No MTA installed, discarding output)
+Dec 28 02:56:47 MySQL-2 do-agent[2306]: 2017/12/28 02:56:47 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 03:00:01 MySQL-2 CRON[29195]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 03:00:01 MySQL-2 CRON[29196]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 28 03:00:01 MySQL-2 CRON[29194]: (CRON) info (No MTA installed, discarding output)
+Dec 28 03:00:01 MySQL-2 kernel: [665551.546070] sh (29196): drop_caches: 3
+Dec 28 03:00:59 MySQL-2 do-agent[2306]: 2017/12/28 03:00:59 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 03:02:12 MySQL-2 do-agent[2306]: 2017/12/28 03:02:12 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 03:05:01 MySQL-2 CRON[29201]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 03:05:01 MySQL-2 CRON[29200]: (CRON) info (No MTA installed, discarding output)
+Dec 28 03:10:01 MySQL-2 CRON[29206]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 28 03:10:01 MySQL-2 CRON[29208]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 03:10:01 MySQL-2 kernel: [666151.630306] sh (29206): drop_caches: 3
+Dec 28 03:10:01 MySQL-2 CRON[29205]: (CRON) info (No MTA installed, discarding output)
+Dec 28 03:10:25 MySQL-2 do-agent[2306]: 2017/12/28 03:10:25 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 03:15:01 MySQL-2 CRON[29213]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 03:15:01 MySQL-2 CRON[29212]: (CRON) info (No MTA installed, discarding output)
+Dec 28 03:17:01 MySQL-2 CRON[29217]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 28 03:20:01 MySQL-2 CRON[29221]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 28 03:20:01 MySQL-2 CRON[29222]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 03:20:01 MySQL-2 CRON[29220]: (CRON) info (No MTA installed, discarding output)
+Dec 28 03:20:01 MySQL-2 kernel: [666751.735125] sh (29221): drop_caches: 3
+Dec 28 03:21:36 MySQL-2 do-agent[2306]: 2017/12/28 03:21:36 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 03:22:41 MySQL-2 do-agent[2306]: 2017/12/28 03:22:41 Checking for newer version of do-agent
+Dec 28 03:22:41 MySQL-2 do-agent[2306]: 2017/12/28 03:22:41 No repository update available
+Dec 28 03:22:51 MySQL-2 do-agent[2306]: 2017/12/28 03:22:51 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 03:24:59 MySQL-2 do-agent[2306]: 2017/12/28 03:24:59 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 03:25:01 MySQL-2 CRON[29227]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 03:25:01 MySQL-2 CRON[29226]: (CRON) info (No MTA installed, discarding output)
+Dec 28 03:27:24 MySQL-2 systemd[1]: Created slice User Slice of root.
+Dec 28 03:27:24 MySQL-2 systemd[1]: Starting User Manager for UID 0...
+Dec 28 03:27:24 MySQL-2 systemd[1]: Started Session 3566 of user root.
+Dec 28 03:27:24 MySQL-2 systemd[29232]: Reached target Sockets.
+Dec 28 03:27:24 MySQL-2 systemd[29232]: Reached target Paths.
+Dec 28 03:27:24 MySQL-2 systemd[29232]: Reached target Timers.
+Dec 28 03:27:24 MySQL-2 systemd[29232]: Reached target Basic System.
+Dec 28 03:27:24 MySQL-2 systemd[29232]: Reached target Default.
+Dec 28 03:27:24 MySQL-2 systemd[29232]: Startup finished in 20ms.
+Dec 28 03:27:24 MySQL-2 systemd[1]: Started User Manager for UID 0.
+Dec 28 03:29:18 MySQL-2 do-agent[2306]: 2017/12/28 03:29:18 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 03:30:01 MySQL-2 CRON[29339]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 28 03:30:01 MySQL-2 CRON[29340]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 03:30:01 MySQL-2 CRON[29338]: (CRON) info (No MTA installed, discarding output)
+Dec 28 03:30:01 MySQL-2 kernel: [667351.850304] sh (29339): drop_caches: 3
+Dec 28 03:35:01 MySQL-2 CRON[29365]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 03:35:01 MySQL-2 CRON[29364]: (CRON) info (No MTA installed, discarding output)
+Dec 28 03:40:01 MySQL-2 CRON[29370]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 03:40:01 MySQL-2 CRON[29372]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 28 03:40:01 MySQL-2 CRON[29369]: (CRON) info (No MTA installed, discarding output)
+Dec 28 03:40:01 MySQL-2 kernel: [667951.930585] sh (29372): drop_caches: 3
+Dec 28 03:45:01 MySQL-2 CRON[29378]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 03:45:01 MySQL-2 CRON[29377]: (CRON) info (No MTA installed, discarding output)
+Dec 28 03:50:01 MySQL-2 CRON[29392]: (root) CMD (sync; echo 3 > /proc/sys/vm/drop_caches)
+Dec 28 03:50:01 MySQL-2 CRON[29393]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 03:50:01 MySQL-2 CRON[29391]: (CRON) info (No MTA installed, discarding output)
+Dec 28 03:50:01 MySQL-2 kernel: [668552.016714] sh (29392): drop_caches: 3
+Dec 28 03:54:42 MySQL-2 do-agent[2306]: 2017/12/28 03:54:42 Sending metrics to DigitalOcean: Post https://nyc3.sonar.digitalocean.com/v1/metrics/droplet_id/75792701: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+Dec 28 03:55:01 MySQL-2 CRON[29398]: (root) CMD (sh /backup/scripts/check-mysql.sh)
+Dec 28 03:55:01 MySQL-2 CRON[29397]: (CRON) info (No MTA installed, discarding output)
