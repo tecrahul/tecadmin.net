@@ -1,4 +1,5 @@
 2017-12-08 08:21:48 startup packages remove
+
 2017-12-08 08:21:48 status installed grub-gfxpayload-lists:amd64 0.7
 2017-12-08 08:21:48 status installed grub-pc:amd64 2.02~beta2-36ubuntu3.14
 2017-12-08 08:21:48 status installed grub-gfxpayload-lists:amd64 0.7
